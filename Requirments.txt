@@ -1,0 +1,8 @@
+| المكتبة      | الاستخدام في المشروع                  | أهم الأدوات / الفانكشنز                                                                                                                                                        |
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+gradio                                                                                               |
